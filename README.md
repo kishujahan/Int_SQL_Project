@@ -23,6 +23,7 @@ These tables are connected through shared keys such as customer key, order date,
 
 - SQL
 - PostgreSQL
+- DBeaver, pgAdmin
 - Window Functions
 - Common Table Expressions (CTEs)
 - Views
